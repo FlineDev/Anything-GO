@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Logo.png"
+    <img src="https://raw.githubusercontent.com/Flinesoft/Anything-GO/stable/Logo.png"
       width=600 height=134>
 </p>
 
