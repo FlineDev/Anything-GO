@@ -29,7 +29,7 @@
 
 # Anything GO
 
-"Anything GO" is a collection of Pokémon GO inspired augmented reality game concepts and defines everything needed to implement a similar game for other franchises or communities.
+"Anything GO" is a **collection** of Pokémon GO inspired **augmented reality game concepts** and defines everything needed to implement a similar game for **any franchise or community**.
 
 ## Motivation
 
