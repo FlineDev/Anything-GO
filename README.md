@@ -31,6 +31,8 @@
 
 "Anything GO" is a **collection** of Pokémon GO inspired **augmented reality game concepts** and defines everything needed to implement a similar game for **any franchise or community**.
 
+***Note that this project is in its very early stages. But if you like the idea give it a star and help getting things done by starting/commenting a discussion with your thoughts on the [issues](https://github.com/Flinesoft/Anything-GO/issues) page. Thank you for your help!***
+
 ## Motivation
 
 **Pokémon GO** was released not long ago and it has already been **a huge succes** with an immediate hype all around the world. We too love the idea of **taking gamers outside**, getting them to **discover new places**, meet **new people** and even make them feel like they are **part of a different world** right within our own.
