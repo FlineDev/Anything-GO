@@ -45,7 +45,7 @@ Our main goal is to **bring the great ideas behind Pokémon GO to other franchis
 
 The particular goals of this specific respository are:
 
-- **Analyze the concepts** behind Pokémon GO with respect to the following questions:
+- **[Analyze the concepts](https://github.com/Flinesoft/Anything-GO/issues/3)** behind Pokémon GO with respect to the following questions:
   - What makes people **start to play** the game?
   - What makes people **move** (go outside) when playing the game?
   - What makes people **discover** new places?
@@ -66,7 +66,7 @@ Currently the web-backend and iOS projects aren't started yet. Once they are, th
 
 ## Example Franchises
 
-In order to make sure the **concepts actually make sense** and also that **developers** have an easier time to **understand what we mean** we are gonna use a few example franchises when developing the concepts. Currently those franchises are namely **Harry Potter** and the **Marvel Cinematic Universe**. This means when discussing and explaining the concepts we are gonna give examples of characters, items or other features of those two franchises to clarify the usage.
+In order to make sure the **concepts actually make sense** and also that **developers** have an easier time to **understand what we mean** we are gonna use a few example franchises when developing the concepts. Currently those franchises are namely **Harry Potter** and **Dragon Ball**. This means when discussing and explaining the concepts we are gonna give examples of characters, items or other features of those two franchises to clarify the usage.
 
 The reason those two were chosen is simply because **the initiator of this project knows them well** and thinks many others do, too. Also note that there is even **a [petition](http://www.thepetitionsite.com/380/697/285/)** for a Pokémon GO like app from fans for Harry Potter. This project could be a **starting point** to develop such an app as a community-driven open source project (given the right holders allow it).
 
