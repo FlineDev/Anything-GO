@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Gitter-Join_Chat!-orange.svg"
              alt="Gitter: Join Chat!">
     </a>
-    <a href="https://github.com/Flinesoft/Anything-GO/blob/stable/LICENSE.md">
+    <a href="https://github.com/Flinesoft/Anything-GO/blob/stable/LICENSE.txt">
         <img src="https://img.shields.io/badge/License-Creative_Commons_BY–NC–SA-lightgrey.svg"
              alt="License: Creative Commons BY-NC-SA">
     </a>
