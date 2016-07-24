@@ -49,6 +49,7 @@ The particular goals of this specific respository are:
   - What makes people **start to play** the game?
   - What makes people **move** (go outside) when playing the game?
   - What makes people **discover** new places?
+  - What makes people **socialize** with other players? (Does it?)
   - What makes people **stay motivated** and play the game long-term?
 - Find the **weaknesses and disadvantages** – using experiences made by players
 - Use the concept and weakness analysis results to **develop a refined set of concepts**
