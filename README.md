@@ -65,11 +65,11 @@ There will be an **official implementation of a web-backend** written in Ruby on
 
 Currently the web-backend and iOS projects aren't started yet. Once they are, they will be linked here.
 
-## Example Franchises
+## Example Franchise
 
-In order to make sure the **concepts actually make sense** and also that **developers** have an easier time to **understand what we mean** we are gonna use a few example franchises when developing the concepts. Currently those franchises are namely **Harry Potter** and **Dragon Ball**. This means when discussing and explaining the concepts we are gonna give examples of characters, items or other features of those two franchises to clarify the usage.
+In order to make sure the **concepts actually make sense** and also that **developers** have an easier time to **understand what we mean** we are gonna use an example franchise when developing the concepts. Namely the example franchise is **Harry Potter**. This means when discussing and explaining the concepts we are gonna give examples of characters, items or other features of those the Harry Potter franchise to clarify the usage.
 
-The reason those two were chosen is simply because **the initiator of this project knows them well** and thinks many others do, too. Also note that there is even **a [petition](http://www.thepetitionsite.com/380/697/285/)** for a Pokémon GO like app from fans for Harry Potter. This project could be a **starting point** to develop such an app as a community-driven open source project (given the right holders allow it).
+The reason the Harry Potter franchise was chosen is simply because **the initiator of this project knows it well** and thinks many others do, too. Also note that there is even **a [petition](http://www.thepetitionsite.com/380/697/285/)** for a Pokémon GO like app from fans for Harry Potter. This project could be a **starting point** to develop such an app as a community-driven open source project (given the right holders allow it).
 
 ### Contributing
 
