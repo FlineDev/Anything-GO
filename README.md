@@ -29,6 +29,8 @@
 
 # Anything GO
 
+[![Join the chat at https://gitter.im/Flinesoft/Anything-GO](https://badges.gitter.im/Flinesoft/Anything-GO.svg)](https://gitter.im/Flinesoft/Anything-GO?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 "Anything GO" is a **collection** of Pokémon GO inspired **augmented reality game concepts** and defines everything needed to implement a similar game for **any franchise or community**.
 
 ***Note that this project is in its very early stages. But if you like the idea give it a star and help getting things done by starting/commenting a discussion with your thoughts on the [issues](https://github.com/Flinesoft/Anything-GO/issues) page. Thank you for your help!***
