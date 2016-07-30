@@ -52,8 +52,8 @@ The particular goals of this specific respository are:
   - What makes people **socialize** with other players? (Does it?)
   - What makes people **stay motivated** and play the game long-term?
 - Find the **[weaknesses and disadvantages](https://github.com/Flinesoft/Anything-GO/issues/5)** – using experiences made by players
-- Use the concept and weakness analysis results to **develop a refined set of concepts**
-- Add more ideas and features to **enhance the social part of the game**
+- Use the concept and weakness analysis results to **[develop a refined set of concepts](https://github.com/Flinesoft/Anything-GO/issues/6)**
+- Add more ideas and features to **[enhance the social part of the game](https://github.com/Flinesoft/Anything-GO/issues/7)**
 
 ### Out of Scope
 
