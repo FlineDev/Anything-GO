@@ -57,7 +57,7 @@ The particular goals of this specific respository are:
 
 ### Out of Scope
 
-Note that *implementing* the concepts is **not part of this repository**. Everybody is **free to use, change and mix** all ideas, concepts and results of this repository and write their own implementations as long as they comply to our [license](#license) (for commercial usage, please contact [Dschee](https://github.com/Dschee)).
+Note that *implementing* the concepts is **not part of this repository**. Everybody is **free to use, change and mix** all ideas, concepts and results of this repository and write their own implementations as long as they comply to our [license](#license) (for commercial usage, please contact [Cihat Gündüz](https://github.com/Jeehut)).
 
 ### Reference Core Implementations
 
